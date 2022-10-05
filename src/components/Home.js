@@ -10,5 +10,4 @@ function Home({ isLoggedIn }) {
     </div>
   );
 }
-
 export default Home;
